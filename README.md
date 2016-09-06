@@ -1,2 +1,2 @@
 # androidSmoker-website
-Website for androidsmoker.com
+Website for [http://androidsmoker.com](http://androidsmoker.com)
